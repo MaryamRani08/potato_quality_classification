@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+.virtual_documents/
+data/
+logs/
+models/
+fresh.zip
+rotten.zip
